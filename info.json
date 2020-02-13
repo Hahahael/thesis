@@ -11,6 +11,7 @@
       "videoButton": "",
       "videoSource": "",
       "subjectHeadings": [
+
       ],
       "physicalLocation": {
         "name": "Reserves",
@@ -22,7 +23,7 @@
     },
     {
       "id": "banking_n_allied_laws",
-      "title": "Banking & Allied Laws (2016 edition)",
+      "title": "Banking & Allied Laws 2016 edition",
       "creator": "Larry P. Ignacio",
       "coverImg": "https://ub-www01.uio.no/prosjekter/ar/wikitude/imgs/homo_deus_cover.png",
       "ilibURL": "https://ilib.upd.edu.ph/servlet/template/opac%2CDetails.vm/type/brief/from/search?marcid=257506426",
@@ -54,7 +55,7 @@
       "subjectHeadings": [
         "Revised Penal Code",
         "Criminal law",
-        "Evidence (Law)",
+        "Evidence Law",
         "Criminal investigation"
       ],
       "physicalLocation": {
@@ -76,7 +77,7 @@
       "videoButton": "",
       "videoSource": "",
       "subjectHeadings": [
-        "Evidence (Law)",
+        "Evidence Law",
         "Criminal investigation"
       ],
       "physicalLocation": {
@@ -98,7 +99,7 @@
       "videoButton": "",
       "videoSource": "",
       "subjectHeadings": [
-        "Persons (Law)",
+        "Persons Law",
         "Criminal investigation"
       ],
       "physicalLocation": {
@@ -153,348 +154,7 @@
       },
       "thumbCairn": "https://github.com/Hahahael/thesis/blob/master/Cairn1.png",
       "callCode": "KPM 2176 A97 2010"
-    },
-    {
-      "id": "hop_braf",
-      "title": "Handbook on Pleadings: Basic Rules and Formss",
-      "creator": "U.P. Law Complex",
-      "coverImg": "https://ub-www01.uio.no/prosjekter/ar/wikitude/imgs/homo_deus_cover.png",
-      "ilibURL": "https://en.wikipedia.org/wiki/Homo_Deus:_A_Brief_History_of_Tomorrow",
-      "shortDesc": "",
-      "videoUrl": "",
-      "videoButton": "",
-      "videoSource": "",
-      "subjectHeadings": [
-        "Banking law"
-      ],
-      "physicalLocation": {
-        "name": "Reserves",
-        "lighthouseTarget": "Cairn1",
-        "shortDesc": "The Reserves section of the library houses high demand materials as well as ethnological materials. It houses every SCRA that has ever been printed and it contains some materials which date back to the pre-martial law."
-      },
-      "thumbCairn": "https://github.com/Hahahael/thesis/blob/master/Cairn1.png",
-      "callCode": "FA 4713"
-    },
-    {
-      "id": "answers_to_2017_bar_exam",
-      "title": "Answers to 2017 Bar Examination Questions",
-      "creator": "U.P. Law Complex",
-      "coverImg": "https://ub-www01.uio.no/prosjekter/ar/wikitude/imgs/homo_deus_cover.png",
-      "ilibURL": "https://en.wikipedia.org/wiki/Homo_Deus:_A_Brief_History_of_Tomorrow",
-      "shortDesc": "",
-      "videoUrl": "",
-      "videoButton": "",
-      "videoSource": "",
-      "subjectHeadings": [
-      ],
-      "physicalLocation": {
-        "name": "Reserves",
-        "lighthouseTarget": "Cairn1",
-        "shortDesc": "The Reserves section of the library houses high demand materials as well as ethnological materials. It houses every SCRA that has ever been printed and it contains some materials which date back to the pre-martial law."
-      },
-      "thumbCairn": "https://github.com/Hahahael/thesis/blob/master/Cairn1.png",
-      "callCode": "FA 4713"
-    },
-    {
-      "id": "answers_to_2017_bar_exam",
-      "title": "Answers to 2017 Bar Examination Questions",
-      "creator": "U.P. Law Complex",
-      "coverImg": "https://ub-www01.uio.no/prosjekter/ar/wikitude/imgs/homo_deus_cover.png",
-      "ilibURL": "https://en.wikipedia.org/wiki/Homo_Deus:_A_Brief_History_of_Tomorrow",
-      "shortDesc": "",
-      "videoUrl": "",
-      "videoButton": "",
-      "videoSource": "",
-      "subjectHeadings": [
-      ],
-      "physicalLocation": {
-        "name": "Reserves",
-        "lighthouseTarget": "Cairn1",
-        "shortDesc": "The Reserves section of the library houses high demand materials as well as ethnological materials. It houses every SCRA that has ever been printed and it contains some materials which date back to the pre-martial law."
-      },
-      "thumbCairn": "https://github.com/Hahahael/thesis/blob/master/Cairn1.png",
-      "callCode": "FA 4713"
-    },
-    {
-      "id": "answers_to_2017_bar_exam",
-      "title": "Answers to 2017 Bar Examination Questions",
-      "creator": "U.P. Law Complex",
-      "coverImg": "https://ub-www01.uio.no/prosjekter/ar/wikitude/imgs/homo_deus_cover.png",
-      "ilibURL": "https://en.wikipedia.org/wiki/Homo_Deus:_A_Brief_History_of_Tomorrow",
-      "shortDesc": "",
-      "videoUrl": "",
-      "videoButton": "",
-      "videoSource": "",
-      "subjectHeadings": [
-      ],
-      "physicalLocation": {
-        "name": "Reserves",
-        "lighthouseTarget": "Cairn1",
-        "shortDesc": "The Reserves section of the library houses high demand materials as well as ethnological materials. It houses every SCRA that has ever been printed and it contains some materials which date back to the pre-martial law."
-      },
-      "thumbCairn": "https://github.com/Hahahael/thesis/blob/master/Cairn1.png",
-      "callCode": "FA 4713"
-    },
-    {
-      "id": "answers_to_2017_bar_exam",
-      "title": "Answers to 2017 Bar Examination Questions",
-      "creator": "U.P. Law Complex",
-      "coverImg": "https://ub-www01.uio.no/prosjekter/ar/wikitude/imgs/homo_deus_cover.png",
-      "ilibURL": "https://en.wikipedia.org/wiki/Homo_Deus:_A_Brief_History_of_Tomorrow",
-      "shortDesc": "",
-      "videoUrl": "",
-      "videoButton": "",
-      "videoSource": "",
-      "subjectHeadings": [
-      ],
-      "physicalLocation": {
-        "name": "Reserves",
-        "lighthouseTarget": "Cairn1",
-        "shortDesc": "The Reserves section of the library houses high demand materials as well as ethnological materials. It houses every SCRA that has ever been printed and it contains some materials which date back to the pre-martial law."
-      },
-      "thumbCairn": "https://github.com/Hahahael/thesis/blob/master/Cairn1.png",
-      "callCode": "FA 4713"
-    },
-    {
-      "id": "answers_to_2017_bar_exam",
-      "title": "Answers to 2017 Bar Examination Questions",
-      "creator": "U.P. Law Complex",
-      "coverImg": "https://ub-www01.uio.no/prosjekter/ar/wikitude/imgs/homo_deus_cover.png",
-      "ilibURL": "https://en.wikipedia.org/wiki/Homo_Deus:_A_Brief_History_of_Tomorrow",
-      "shortDesc": "",
-      "videoUrl": "",
-      "videoButton": "",
-      "videoSource": "",
-      "subjectHeadings": [
-      ],
-      "physicalLocation": {
-        "name": "Reserves",
-        "lighthouseTarget": "Cairn1",
-        "shortDesc": "The Reserves section of the library houses high demand materials as well as ethnological materials. It houses every SCRA that has ever been printed and it contains some materials which date back to the pre-martial law."
-      },
-      "thumbCairn": "https://github.com/Hahahael/thesis/blob/master/Cairn1.png",
-      "callCode": "FA 4713"
-    },
-    {
-      "id": "answers_to_2017_bar_exam",
-      "title": "Answers to 2017 Bar Examination Questions",
-      "creator": "U.P. Law Complex",
-      "coverImg": "https://ub-www01.uio.no/prosjekter/ar/wikitude/imgs/homo_deus_cover.png",
-      "ilibURL": "https://en.wikipedia.org/wiki/Homo_Deus:_A_Brief_History_of_Tomorrow",
-      "shortDesc": "",
-      "videoUrl": "",
-      "videoButton": "",
-      "videoSource": "",
-      "subjectHeadings": [
-      ],
-      "physicalLocation": {
-        "name": "Reserves",
-        "lighthouseTarget": "Cairn1",
-        "shortDesc": "The Reserves section of the library houses high demand materials as well as ethnological materials. It houses every SCRA that has ever been printed and it contains some materials which date back to the pre-martial law."
-      },
-      "thumbCairn": "https://github.com/Hahahael/thesis/blob/master/Cairn1.png",
-      "callCode": "FA 4713"
-    },
-    {
-      "id": "answers_to_2017_bar_exam",
-      "title": "Answers to 2017 Bar Examination Questions",
-      "creator": "U.P. Law Complex",
-      "coverImg": "https://ub-www01.uio.no/prosjekter/ar/wikitude/imgs/homo_deus_cover.png",
-      "ilibURL": "https://en.wikipedia.org/wiki/Homo_Deus:_A_Brief_History_of_Tomorrow",
-      "shortDesc": "",
-      "videoUrl": "",
-      "videoButton": "",
-      "videoSource": "",
-      "subjectHeadings": [
-      ],
-      "physicalLocation": {
-        "name": "Reserves",
-        "lighthouseTarget": "Cairn1",
-        "shortDesc": "The Reserves section of the library houses high demand materials as well as ethnological materials. It houses every SCRA that has ever been printed and it contains some materials which date back to the pre-martial law."
-      },
-      "thumbCairn": "https://github.com/Hahahael/thesis/blob/master/Cairn1.png",
-      "callCode": "FA 4713"
-    },
-    {
-      "id": "answers_to_2017_bar_exam",
-      "title": "Answers to 2017 Bar Examination Questions",
-      "creator": "U.P. Law Complex",
-      "coverImg": "https://ub-www01.uio.no/prosjekter/ar/wikitude/imgs/homo_deus_cover.png",
-      "ilibURL": "https://en.wikipedia.org/wiki/Homo_Deus:_A_Brief_History_of_Tomorrow",
-      "shortDesc": "",
-      "videoUrl": "",
-      "videoButton": "",
-      "videoSource": "",
-      "subjectHeadings": [
-      ],
-      "physicalLocation": {
-        "name": "Reserves",
-        "lighthouseTarget": "Cairn1",
-        "shortDesc": "The Reserves section of the library houses high demand materials as well as ethnological materials. It houses every SCRA that has ever been printed and it contains some materials which date back to the pre-martial law."
-      },
-      "thumbCairn": "https://github.com/Hahahael/thesis/blob/master/Cairn1.png",
-      "callCode": "FA 4713"
-    },
-    {
-      "id": "answers_to_2017_bar_exam",
-      "title": "Answers to 2017 Bar Examination Questions",
-      "creator": "U.P. Law Complex",
-      "coverImg": "https://ub-www01.uio.no/prosjekter/ar/wikitude/imgs/homo_deus_cover.png",
-      "ilibURL": "https://en.wikipedia.org/wiki/Homo_Deus:_A_Brief_History_of_Tomorrow",
-      "shortDesc": "",
-      "videoUrl": "",
-      "videoButton": "",
-      "videoSource": "",
-      "subjectHeadings": [
-      ],
-      "physicalLocation": {
-        "name": "Reserves",
-        "lighthouseTarget": "Cairn1",
-        "shortDesc": "The Reserves section of the library houses high demand materials as well as ethnological materials. It houses every SCRA that has ever been printed and it contains some materials which date back to the pre-martial law."
-      },
-      "thumbCairn": "https://github.com/Hahahael/thesis/blob/master/Cairn1.png",
-      "callCode": "FA 4713"
-    },
-    {
-      "id": "answers_to_2017_bar_exam",
-      "title": "Answers to 2017 Bar Examination Questions",
-      "creator": "U.P. Law Complex",
-      "coverImg": "https://ub-www01.uio.no/prosjekter/ar/wikitude/imgs/homo_deus_cover.png",
-      "ilibURL": "https://en.wikipedia.org/wiki/Homo_Deus:_A_Brief_History_of_Tomorrow",
-      "shortDesc": "",
-      "videoUrl": "",
-      "videoButton": "",
-      "videoSource": "",
-      "subjectHeadings": [
-      ],
-      "physicalLocation": {
-        "name": "Reserves",
-        "lighthouseTarget": "Cairn1",
-        "shortDesc": "The Reserves section of the library houses high demand materials as well as ethnological materials. It houses every SCRA that has ever been printed and it contains some materials which date back to the pre-martial law."
-      },
-      "thumbCairn": "https://github.com/Hahahael/thesis/blob/master/Cairn1.png",
-      "callCode": "FA 4713"
-    },
-    {
-      "id": "answers_to_2017_bar_exam",
-      "title": "Answers to 2017 Bar Examination Questions",
-      "creator": "U.P. Law Complex",
-      "coverImg": "https://ub-www01.uio.no/prosjekter/ar/wikitude/imgs/homo_deus_cover.png",
-      "ilibURL": "https://en.wikipedia.org/wiki/Homo_Deus:_A_Brief_History_of_Tomorrow",
-      "shortDesc": "",
-      "videoUrl": "",
-      "videoButton": "",
-      "videoSource": "",
-      "subjectHeadings": [
-      ],
-      "physicalLocation": {
-        "name": "Reserves",
-        "lighthouseTarget": "Cairn1",
-        "shortDesc": "The Reserves section of the library houses high demand materials as well as ethnological materials. It houses every SCRA that has ever been printed and it contains some materials which date back to the pre-martial law."
-      },
-      "thumbCairn": "https://github.com/Hahahael/thesis/blob/master/Cairn1.png",
-      "callCode": "FA 4713"
-    },
-    {
-      "id": "answers_to_2017_bar_exam",
-      "title": "Answers to 2017 Bar Examination Questions",
-      "creator": "U.P. Law Complex",
-      "coverImg": "https://ub-www01.uio.no/prosjekter/ar/wikitude/imgs/homo_deus_cover.png",
-      "ilibURL": "https://en.wikipedia.org/wiki/Homo_Deus:_A_Brief_History_of_Tomorrow",
-      "shortDesc": "",
-      "videoUrl": "",
-      "videoButton": "",
-      "videoSource": "",
-      "subjectHeadings": [
-      ],
-      "physicalLocation": {
-        "name": "Reserves",
-        "lighthouseTarget": "Cairn1",
-        "shortDesc": "The Reserves section of the library houses high demand materials as well as ethnological materials. It houses every SCRA that has ever been printed and it contains some materials which date back to the pre-martial law."
-      },
-      "thumbCairn": "https://github.com/Hahahael/thesis/blob/master/Cairn1.png",
-      "callCode": "FA 4713"
-    },
-    {
-      "id": "answers_to_2017_bar_exam",
-      "title": "Answers to 2017 Bar Examination Questions",
-      "creator": "U.P. Law Complex",
-      "coverImg": "https://ub-www01.uio.no/prosjekter/ar/wikitude/imgs/homo_deus_cover.png",
-      "ilibURL": "https://en.wikipedia.org/wiki/Homo_Deus:_A_Brief_History_of_Tomorrow",
-      "shortDesc": "",
-      "videoUrl": "",
-      "videoButton": "",
-      "videoSource": "",
-      "subjectHeadings": [
-      ],
-      "physicalLocation": {
-        "name": "Reserves",
-        "lighthouseTarget": "Cairn1",
-        "shortDesc": "The Reserves section of the library houses high demand materials as well as ethnological materials. It houses every SCRA that has ever been printed and it contains some materials which date back to the pre-martial law."
-      },
-      "thumbCairn": "https://github.com/Hahahael/thesis/blob/master/Cairn1.png",
-      "callCode": "FA 4713"
-    },
-    {
-      "id": "answers_to_2017_bar_exam",
-      "title": "Answers to 2017 Bar Examination Questions",
-      "creator": "U.P. Law Complex",
-      "coverImg": "https://ub-www01.uio.no/prosjekter/ar/wikitude/imgs/homo_deus_cover.png",
-      "ilibURL": "https://en.wikipedia.org/wiki/Homo_Deus:_A_Brief_History_of_Tomorrow",
-      "shortDesc": "",
-      "videoUrl": "",
-      "videoButton": "",
-      "videoSource": "",
-      "subjectHeadings": [
-      ],
-      "physicalLocation": {
-        "name": "Reserves",
-        "lighthouseTarget": "Cairn1",
-        "shortDesc": "The Reserves section of the library houses high demand materials as well as ethnological materials. It houses every SCRA that has ever been printed and it contains some materials which date back to the pre-martial law."
-      },
-      "thumbCairn": "https://github.com/Hahahael/thesis/blob/master/Cairn1.png",
-      "callCode": "FA 4713"
-    },
-    {
-      "id": "answers_to_2017_bar_exam",
-      "title": "Answers to 2017 Bar Examination Questions",
-      "creator": "U.P. Law Complex",
-      "coverImg": "https://ub-www01.uio.no/prosjekter/ar/wikitude/imgs/homo_deus_cover.png",
-      "ilibURL": "https://en.wikipedia.org/wiki/Homo_Deus:_A_Brief_History_of_Tomorrow",
-      "shortDesc": "",
-      "videoUrl": "",
-      "videoButton": "",
-      "videoSource": "",
-      "subjectHeadings": [
-      ],
-      "physicalLocation": {
-        "name": "Reserves",
-        "lighthouseTarget": "Cairn1",
-        "shortDesc": "The Reserves section of the library houses high demand materials as well as ethnological materials. It houses every SCRA that has ever been printed and it contains some materials which date back to the pre-martial law."
-      },
-      "thumbCairn": "https://github.com/Hahahael/thesis/blob/master/Cairn1.png",
-      "callCode": "FA 4713"
-    },
-    {
-      "id": "answers_to_2017_bar_exam",
-      "title": "Answers to 2017 Bar Examination Questions",
-      "creator": "U.P. Law Complex",
-      "coverImg": "https://ub-www01.uio.no/prosjekter/ar/wikitude/imgs/homo_deus_cover.png",
-      "ilibURL": "https://en.wikipedia.org/wiki/Homo_Deus:_A_Brief_History_of_Tomorrow",
-      "shortDesc": "",
-      "videoUrl": "",
-      "videoButton": "",
-      "videoSource": "",
-      "subjectHeadings": [
-      ],
-      "physicalLocation": {
-        "name": "Reserves",
-        "lighthouseTarget": "Cairn1",
-        "shortDesc": "The Reserves section of the library houses high demand materials as well as ethnological materials. It houses every SCRA that has ever been printed and it contains some materials which date back to the pre-martial law."
-      },
-      "thumbCairn": "https://github.com/Hahahael/thesis/blob/master/Cairn1.png",
-      "callCode": "FA 4713"
-    },
+    }
   ],
   "directions": [
     {
