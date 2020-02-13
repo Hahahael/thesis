@@ -53,7 +53,9 @@
       "videoSource": "",
       "subjectHeadings": [
         "Revised Penal Code",
-        "Criminal law0"
+        "Criminal law",
+        "Evidence (Law)",
+        "Criminal investigation"
       ],
       "physicalLocation": {
         "name": "Reserves",
@@ -74,7 +76,8 @@
       "videoButton": "",
       "videoSource": "",
       "subjectHeadings": [
-        "Evidence (Law)"
+        "Evidence (Law)",
+        "Criminal investigation"
       ],
       "physicalLocation": {
         "name": "Reserves",
@@ -95,7 +98,8 @@
       "videoButton": "",
       "videoSource": "",
       "subjectHeadings": [
-        "Persons (Law)"
+        "Persons (Law)",
+        "Criminal investigation"
       ],
       "physicalLocation": {
         "name": "Reserves",
@@ -138,7 +142,9 @@
       "videoButton": "",
       "videoSource": "",
       "subjectHeadings": [
-        "Election law"
+        "Election law",
+        "Banking law",
+        "Criminal investigation"
       ],
       "physicalLocation": {
         "name": "Reserves",
@@ -159,6 +165,7 @@
       "videoButton": "",
       "videoSource": "",
       "subjectHeadings": [
+        "Banking law"
       ],
       "physicalLocation": {
         "name": "Reserves",
